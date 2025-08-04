@@ -5,14 +5,14 @@
         <h3>Gotta catch 'em all!</h3>
         <p>Me ajude a zerar minha Pokédex me desafiando a uma série de exercícios com um Pokémon da lista.</p>
 
-        <NuxtLink to="/Pokemons/">
+        <NuxtLink to="/Pokemons/" class="m-6 flex justify-end">
             Ver Pokémons
         </NuxtLink>
     </div>
 </template>
 
 <script setup>
-
+    
 </script>
 
 <style scoped>
